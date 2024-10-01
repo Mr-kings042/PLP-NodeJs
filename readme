@@ -1,0 +1,9 @@
+Server - It responds to requests sent by clients (like browsers, apps, or other services).
+Example: A web server hosts websites and responds to HTTP requests from browsers, delivering HTML, CSS, and other resources.  An API is a set of rules and protocols that allows different software applications to communicate with each other.
+An API provides a structured way for different systems or components to interact. It defines how requests are made (e.g., to get data or perform operations) and how responses are returned.
+Example: A REST API on a server allows client applications to retrieve or send data via HTTP requests (like fetching weather data or sending a message to a social media app).An API can be hosted on a server. The server processes requests that come through the API and sends back responses, often in formats like JSON or XML.
+
+
+connection to mysql on the terminal;
+mysql -u root -p
+ mysql -u root -p
